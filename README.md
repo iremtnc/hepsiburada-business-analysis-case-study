@@ -1,34 +1,44 @@
-#Hepsiburada İş Analizi Vaka Çalışması: Güvenli Teslimat Projesi
+# Hepsiburada İş Analizi Vaka Çalışması: Güvenli Teslimat Projesi
 
-Bu proje, Hepsiburada'nın kargo teslimat operasyonlarında yaşanan ve "Teslim Edildi Paradoksu" olarak tanımlanan güven krizinin analiz edilmesi ve iyileştirilmesine yönelik hazırlanan bir iş analizi vaka çalışmasını içermektedir. Çalışma kapsamında süreçteki temel problemi bizzat tespit ederek mevcut süreçleri analiz ettik ve takım arkadaşlarımla birlikte müşteri güvenini yeniden inşa edecek çift kademeli bir doğrulama sistemi tasarladık. 
+Bu proje, Hepsiburada'nın kargo teslimat süreçlerinde yaşanan "Teslim Edildi Paradoksu" kaynaklı müşteri güven probleminin analiz edilmesi ve iyileştirilmesine yönelik hazırlanmış bir iş analizi vaka çalışmasıdır.
 
-#Proje Kapsamı
+Çalışma kapsamında mevcut teslimat süreci analiz edilmiş, problemin kök nedenleri belirlenmiş ve müşteri güvenini artırmaya yönelik "Çift Kademeli Güvenli Teslimat" çözümü tasarlanmıştır.
 
-Bu çalışma kapsamında, projenin gelişim sürecine uygun olarak sırasıyla aşağıdaki analiz ve tasarım faaliyetleri gerçekleştirilmiştir:
-İş süreçlerinin analizi, problemin tespiti ve 
-Balık Kılçığı (Kök Neden) Analizi 
-Mevcut Durum (AS-IS) analizi ve 
-BPMN süreç modellemesi  SWOT ve 
-TOWS matrisleri ile stratejik yönelimin belirlenmesi 
-Proje odak noktasının MoSCoW analizi ve RICE skorlaması ile önceliklendirilmesi  
-Hedef Durum (TO-BE) analizi ve yeni sürecin BPMN ile tasarlanması  
-Çözüm gereksinimlerinin detaylandırılması: Gereksinim Piramidi ve KANO Modeli  
-Agile ürün yönetimi: UML Use Case Diyagramı, 
-Kullanıcı Hikayeleri (User Stories) ve User Story Mapping  
-Çözümün görselleştirilmesi: Wireframe tasarımlarının hazırlanması  
+## Proje Kapsamı
 
-#Proje İçeriği
-İş Süreç Analizi Ara Raporu (Hepsiburada -vize.pdf)  📄 
-Güvenli Teslimat Dönüşümü Final Raporu (Hepsiburada_final.pdf)  
+Çalışma sürecinde aşağıdaki iş analizi ve ürün yönetimi metodolojileri kullanılmıştır:
 
-#Kazanılan Yetkinlikler
-İş Süreci Analizi
-Problem Tespiti ve Kök Neden Analizi
-Stratejik Planlama ve Önceliklendirme (SWOT, MoSCoW, RICE, KANO)
-BPMN Süreç Modelleme (AS-IS / TO-BE)
-Gereksinim Analizi
-Agile Takım Çalışması ve Ürün Yönetimi
-Wireframe Hazırlama
+- İş Süreç Analizi ve Problem Tanımlama
+- Kök Neden Analizi (Balık Kılçığı, 5 Neden)
+- AS-IS / TO-BE Süreç Analizi
+- BPMN Süreç Modelleme
+- SWOT ve TOWS Stratejik Analizleri
+- Gereksinim Analizi ve Önceliklendirme
+  - MoSCoW
+  - RICE Skorlama
+  - KANO Modeli
+- Agile Ürün Yönetimi
+  - UML Use Case Diyagramları
+  - User Stories
+  - User Story Mapping
+- Wireframe Tasarımları
 
-#Not
-Bu proje İş - Süreç Analizi dersi kapsamında gerçekleştirilmiştir. 
+## Proje Çıktıları
+
+📄 İş Süreç Analizi Ara Raporu
+
+📄 Güvenli Teslimat Dönüşümü Final Raporu
+
+## Kullanılan Yetkinlikler
+
+- İş Süreç Analizi
+- Gereksinim Analizi
+- Süreç Modelleme (BPMN)
+- Problem Çözme ve Kök Neden Analizi
+- Stratejik Analiz Teknikleri
+- Agile Ürün Yönetimi
+- Wireframe Tasarımı
+
+## Proje Hakkında
+
+Bu çalışma, İş Süreç Analizi dersi kapsamında hazırlanmış olup gerçek bir e-ticaret operasyon problemi üzerinden iş analizi yaklaşımını uygulamayı amaçlamaktadır.
