@@ -25,9 +25,11 @@ Bu proje, Hepsiburada'nın kargo teslimat süreçlerinde yaşanan "Teslim Edildi
 
 ## Proje Çıktıları
 
-📄 İş Süreç Analizi Ara Raporu
+📄 İş Süreç Analizi Ara Sunumu
 
-📄 Güvenli Teslimat Dönüşümü Final Raporu
+📄 Güvenli Teslimat Dönüşümü Final Sunumu
+
+📄 Güvenli Teslimat Dönüşümü Raporu
 
 ## Kullanılan Yetkinlikler
 
